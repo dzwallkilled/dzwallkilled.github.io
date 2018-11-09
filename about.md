@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A Phd candidate in University of Wollongong!
+
+Computer vision and deep learning.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Badminton and food are my favourate.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zd027@uowmail.edu.au](mailto:zd027@uowmail.edu.au)
